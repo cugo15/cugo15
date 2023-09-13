@@ -1,5 +1,5 @@
 
-[![MasterHead]https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_an_Android_Developer.jpg
+[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/How_to_Become_an_Android_Developer.jpg)
 <h1 align="center">Hi 👋, I'm Cumhur Günay</h1>
 <h3 align="center">Android developer from Turkey</h3>
 
